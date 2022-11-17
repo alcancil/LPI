@@ -1,4 +1,4 @@
-<h2> LINUX </h2>  
+<h2>  <a href="https://distrowatch.com/"> <img height="50em" src="https://findicons.com/files/icons/1911/aqua_tux/128/tux.png"></img> </a> LINUX </h2>  
 
 Repositório destinado ao estudo do sistema operacional Linux
 Criado em 17/11/2022 por alcancil
@@ -9,7 +9,7 @@ Criado em 17/11/2022 por alcancil
 
 
 
-<h2><b><img height="25em" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Lpi-logo.png?20171130212019"> LPI - Linux Professional Institute</b></h2>  
+<h2><b><a href="https://www.lpi.org/"><img height="25em" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Lpi-logo.png?20171130212019"> LPI - Linux Professional Institute<a/></b></h2>  
   
 Informações sobre o LPIC1
 
