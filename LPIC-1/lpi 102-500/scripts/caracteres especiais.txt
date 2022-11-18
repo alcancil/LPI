@@ -1,0 +1,13 @@
+Variáveis Especiais e Códigos de Retorno
+
+Observe um resumo das variáveis que, quando utilizadas após o caractere dólar ($), retornam valores especiais:
+
+$0 = representa o nome do comando/script que está sendo executado.
+
+$* ou $@ = exibe todos os argumentos fornecidos ao script/comando.
+
+$# = representa a quantidade total de argumentos oferecidos ao script/comando.
+
+$$ = representa o PID do Shell corrente.
+
+$? = representa o código ou valor de retorno da execução do último comando executado.
