@@ -1,0 +1,19 @@
+function quadrado() {
+	echo "### CÁLCULO DO QUADRADO DE UM NÚMERO###"
+
+	echo
+
+	echo -n "DIGITE UM NÙMERO: "
+
+	echo
+
+	read NUMERO
+
+	let VALOR=$NUMERO*$NUMERO
+
+	echo
+
+	echo "O QUADRADO DO $NUMERO É $VALOR"
+
+}
+

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+. 03-teste-func.sh
+
+. 02-funcoes
+
+quadrado
+
+mensagem
