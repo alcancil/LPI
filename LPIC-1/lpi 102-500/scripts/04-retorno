@@ -1,0 +1,38 @@
+# Esse script foi desenvolvido com o intuito de demonstrar o uso de variáveis especiais e códigos de
+#retorno
+#
+# uso do script
+# source 04-retorno a 20 c
+
+
+#!/bin/bash
+
+echo "Script que está sendo executado: $0"
+
+echo
+
+echo "Foram informados $# argumentos"
+
+echo
+
+echo "Argumentos informados: $*"
+
+echo
+
+echo "O primeiro argumento informado foi $1"
+
+echo
+
+echo "Já o segundo argumento informado foi $2"
+
+echo
+
+echo "Número identificador do processo (PID): $$"
+
+echo
+
+echo "Código de retorno do último comando: $?"
+
+echo
+
+echo "Fim da execução..."
